@@ -22,8 +22,13 @@ second_bigdata
 
 程序组成部分：
     factor.py:计算老化系数
+    
     latest_new.py:记录每个用户的最后浏览的时间，以及每个新闻的发布时间
+    
     read_file.py:建立新闻、用户、时间映射矩阵
+    
     read_file1.py:读取用户集合，用户
+    
     recommend.py:程序主函数，根据解决方案，实现功能
-  
+    
+详细阐述在pdf文档中
